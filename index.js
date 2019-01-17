@@ -11,7 +11,9 @@ const facts = [
 function theBeatlesPlay(musicians , instruments)
 {
   var empty = [];
-  for(int i = 0)
+  for(int i = 0; i < 4; i++){
+    
+  }
 }
 
 function johnLennonFacts(facts)
