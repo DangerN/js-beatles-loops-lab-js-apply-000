@@ -19,7 +19,11 @@ function theBeatlesPlay(musicians , instruments)
 
 function johnLennonFacts(facts)
 {
-  
+  whlie(i < 4)
+  {
+    facts[i] = facts[i] = "!!!";
+    
+  }
   return facts;
 }
 
