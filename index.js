@@ -20,6 +20,7 @@ function theBeatlesPlay(musicians , instruments)
 function johnLennonFacts(facts)
 {
   
+  return facts;
 }
 
 function iLoveTheBeatles(number)
