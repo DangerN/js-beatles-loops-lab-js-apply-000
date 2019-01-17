@@ -31,7 +31,6 @@ function iLoveTheBeatles(number)
    empty [i] = "I love the Beatles!";
    i++;
    number++;
-    
-  } while (number < 14);
-  return empty;
+    return empty;
+  } while (number < 15);
 }
