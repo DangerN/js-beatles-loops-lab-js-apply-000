@@ -11,7 +11,7 @@ const facts = [
 function theBeatlesPlay(musicians , instruments)
 {
   var empty = [];
-  for (i = 0; i < 4; i++){
+  for (var i = 0; i < 4; i++){
     empty [i] = musicians[i] + instruments[i];
   }
   return empty;
