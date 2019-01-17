@@ -31,7 +31,7 @@ function iLoveTheBeatles(number)
    var i = 0;
    empty [i] = "I love the Beatles!";
    i++;
-   number++;
-  } while (number < 15);
+   bumber++;
+  } while (bumber < 15);
   return i;
 }
