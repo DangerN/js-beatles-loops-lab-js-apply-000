@@ -10,7 +10,8 @@ const facts = [
 
 function theBeatlesPlay(musicians , instruments)
 {
-  
+  var empty = [];
+  for
 }
 
 function johnLennonFacts(facts)
