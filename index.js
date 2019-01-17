@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians , instruments)
 {
   var empty = [];
   for (var i = 0; i < 4; i++){
-    empty [i] = musicians[i] + instruments[i];
+    empty [i] = musicians[i] + " plays " + instruments[i];
   }
   return empty;
 }
